@@ -69,7 +69,7 @@ Then we:
 
 ```bash
 # Clone repository
-git clone https://github.com/SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution.git
+git clone git@github.com:SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution.git
 cd Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution
 
 # Install dependencies
