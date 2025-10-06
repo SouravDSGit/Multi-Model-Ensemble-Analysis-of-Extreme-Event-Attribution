@@ -1,6 +1,6 @@
 # Multi-Model Ensemble Analysis for Extreme Event Attribution
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SouravDSGit/Multi_Model_Ensemble_Analysis_of_Extreme_Event_Attribution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution/blob/main/Multi_Model_Ensemble_Analysis_of_Extreme_Event_Attribution.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
