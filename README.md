@@ -6,7 +6,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **An educational Google Colab notebook** demonstrating how to evaluate multiple climate models, identify systematic biases, and use machine learning to create improved ensemble predictions for extreme events.
+> **An educational Google Colab notebook** demonstrating how to evaluate multiple climate models, identify systematic biases, and use machine learning to create improved ensemble predictions for extreme events (applicable E3SM).
 
 ## 📚 What You'll Learn
 
