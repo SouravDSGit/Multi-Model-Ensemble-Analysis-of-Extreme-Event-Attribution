@@ -423,4 +423,4 @@ If you use this notebook for research or teaching:
 ## 🔗 Related Projects
 
 - [AI Emulator for Atmospheric Blocking](https://github.com/SouravDSGit/AI-Emulator-for-Atmospheric-Blocking-Events/tree/main)
-- [Graph Neural Networks for Teleconnections](../gnn-teleconnections/)
+- [Graph Neural Networks for Teleconnections](https://github.com/SouravDSGit/GNN-for-Atmospheric-Teleconnection-Patterns)
