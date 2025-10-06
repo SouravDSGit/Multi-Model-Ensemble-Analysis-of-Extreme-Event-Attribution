@@ -424,10 +424,3 @@ If you use this notebook for research or teaching:
 
 - [Project 1: AI Emulator for Atmospheric Blocking](https://github.com/SouravDSGit/AI-Emulator-for-Atmospheric-Blocking-Events/tree/main)
 - [Project 3: Graph Neural Networks for Teleconnections](../gnn-teleconnections/)
-
-**Together, these three projects demonstrate:**
-- Computational efficiency (Project 1)
-- Systematic evaluation (Project 2)
-- Spatial AI (Project 3)
-
-All three applicable to Earth system model development and extreme event prediction!
